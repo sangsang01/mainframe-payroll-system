@@ -1,0 +1,23 @@
+# Mainframe output files
+*.lst
+*.obj
+*.load
+*.log
+
+# JCL output
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
